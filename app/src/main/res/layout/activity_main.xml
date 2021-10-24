@@ -55,5 +55,13 @@
             android:layout_height="wrap_content"
             android:text="Start"
             android:background="@color/purple_700"/>
+
+        <Button
+            android:id="@+id/btnData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Data"
+            android:background="@color/purple_700"/>
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
